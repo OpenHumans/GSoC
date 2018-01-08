@@ -1,21 +1,13 @@
-OBF Google Summer of Code (GSoC)
+Open Humans Google Summer of Code (GSoC)
 ================================
 
-This GitHub repository is being used for the Open Bioinformatics Foundation (OBF)'s
+This GitHub repository is being used for Open Humans'
 participation in the Google Summer of Code (GSoC) event from 2013 onwards. We'll
 be using the GitHub wiki pages mostly:
 
- * OBF GSoC 2018 - http://obf.github.io/GSoC/
- * OBF GSoC 2017 - http://obf.github.io/GSoC/historic/2017-ideas/
- * OBF GSoC 2016 - http://obf.github.io/GSoC/historic/2016-ideas/
- * OBF GSoC 2014 - http://www.open-bio.org/wiki/Google_Summer_of_Code_2014
- * OBF GSoc 2012 - http://www.open-bio.org/wiki/Google_Summer_of_Code_2012
- * OBF GSoC 2011 - http://www.open-bio.org/wiki/Google_Summer_of_Code_2011
- * OBF GSoC 2010 - http://www.open-bio.org/wiki/Google_Summer_of_Code_2010
+ * GSoC 2018 - http://openhumans.github.io/GSoC/
 
-Various OBF projects were involved in GSoC in previous years via NESCent:
- 
- * OBF/NESCent GSoC 2013 - http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013
- * OBF/NESCent GSoC 2009 - http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2009
- * OBF/NESCent GSoC 2008 - http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2008
- * OBF/NESCent GSoC 2007 - http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2007
+ # Acknowledgement
+ The underlying codebase for this repo was copied from the
+ [Open Bioinformatics Foundation](https://github.com/obf/GSoC/) which has been
+ fostering Open Source in Bioinformatics since 2001.
