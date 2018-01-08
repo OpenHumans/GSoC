@@ -18,6 +18,6 @@ program and additional ways to get in touch with us.
 * Table of Contents
 {:toc}
 
-## Cross-project ideas
+## Project Ideas
 
 **Feel free to propose your own entirely new idea.**
