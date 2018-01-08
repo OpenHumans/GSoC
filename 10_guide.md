@@ -5,7 +5,6 @@ permalink: /guide/
 ---
 
 ### Before you apply
-*  Proposals should extend one of affiliated toolkits, not start a new project.
 *  If you want to apply with your own idea, it's best to [contact](../contact/) us
    well before the application deadline, so we can work with you to
    solidify your project idea and application.
@@ -50,7 +49,7 @@ When applying, (aside from the information requested by Google) please provide t
      Through the project plan exercise you will inevitably discover that you are missing a
      lot of the pieces - we are there to help you fill those in as best as we can.
 6. Any obligations, vacations, or plans for the summer that may require scheduling during the GSoC work period.
-   * We expect the your GSoC project to be your primary focus over the summer.
+   * We expect your GSoC project to be your primary focus over the summer.
      It should not be regarded as a part-time occupation.
    * If you feel that you can manage other work obligations concurrently with your
      Summer of Code project, make your case and support it with evidence.
