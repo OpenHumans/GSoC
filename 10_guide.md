@@ -6,12 +6,12 @@ permalink: /guide/
 
 ### Before you apply
 *  Proposals should extend one of affiliated toolkits, not start a new project.
-*  If you want to apply with your own idea, it's best to [contact](../contact/) the OBF subproject
-   you're interested in well before the application deadline, so we can work with you
-   to find a mentor and solidify your project idea and application.
-*  [Ask us questions](../contact/) on the subproject mailing lists about the project idea you have in mind.
+*  If you want to apply with your own idea, it's best to [contact](../contact/) us
+   well before the application deadline, so we can work with you to
+   solidify your project idea and application.
+*  [Ask us questions](../contact/) about the project idea you have in mind.
 *  Write a project proposal draft, include a project plan (see below), and [send it
-   to a project mailing list](../contact/) for comments before submitting it.
+   to us](../contact/) for comments before submitting it.
 
 Again, students are strongly encouraged to [contact us](../contact/) as early as possible.
 Frequent and early communication is extremely valuable for putting together
@@ -22,7 +22,7 @@ When applying, (aside from the information requested by Google) please provide t
 
 1. Your complete contact information, including full name, physical address,
    preferred email address, and telephone number, plus other pertinent contact
-   information such as IRC handles, etc.
+   information such as Slack handles, etc.
 2. Why you are interested in the project you are proposing and are well-suited to undertake it.
 3. A summary of your programming experience and skills.
 4. Programs or projects you have previously authored or contributed to, in particular
@@ -46,7 +46,7 @@ When applying, (aside from the information requested by Google) please provide t
      plan to demonstrate, however, that you have made the effort and thoroughly dissected
      the goals into tasks and successive accomplishments that make sense.
    * We strongly recommend that you bounce your proposed project and your project plan draft
-     off of us, using either the pertinent developers mailing list or the IRC channel(s).
+     off of us.
      Through the project plan exercise you will inevitably discover that you are missing a
      lot of the pieces - we are there to help you fill those in as best as we can.
 6. Any obligations, vacations, or plans for the summer that may require scheduling during the GSoC work period.
@@ -60,4 +60,3 @@ When applying, (aside from the information requested by Google) please provide t
      taking on additional obligations.
    * One of the most common reasons for students to struggle or fail is being overcommitted
      Do not set yourself up for failure! GSoC summers should be fun and rewarding!
-
