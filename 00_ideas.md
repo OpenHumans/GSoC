@@ -30,7 +30,8 @@ Open Humans API methods. You can find
 [more details in the corresponding GitHub issue](https://github.com/OpenHumans/open-humans/issues/690).
 
 This project requires rudimentary skills in web application design and ideally some familiarity with Django/Python.
-Students will learn how to interface with APIs and how build modular web applications.  
+Students will learn how to interface with APIs and how build modular web applications. This project can be mentored by
+[Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
 
 **Feel free to propose your own entirely new idea.**
