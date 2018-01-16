@@ -34,8 +34,8 @@ Students will learn how to interface with APIs and how build modular web applica
 [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
 ### Add new data sources
-Members of *Open Humans* can connect data and upload data from external resources into their
-accounts to share this data with other projects, research studies and individuals. Many of these
+Members of *Open Humans* can [connect data and upload data from external resources](https://www.openhumans.org/add-data/)
+into their accounts to share this data with other projects, research studies and individuals. Many of these
 data imports are community curated. We are looking for students who are interested in contributing
 new data sources. Write a data importer for your favorite sleep tracking, diet logging or
 social media application.
@@ -44,11 +44,27 @@ Some data import ideas we had so far:
 * RescueTime
 * Google location history through Google Takeout
 * Personal Facebook feed
+* your personal idea!
 
 These projects require rudimentary skills in web application design to connect to *Open Humans*.
 Students will learn how to interface with the APIs of their data source as well as the Open Humans API. Additionally
 students will become more familiar with building decentralized applications. This project can be mentored by
 [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
+### Add Data Exploration projects
+Members of *Open Humans* can use the different data sets they have connected to their account in various
+data exploration tools. We are looking for students who are interested in contributing
+new data exploration tools that access a member's data sets to generate interesting insights.
+These can be in form of data visualization/analysis or generating derived new data sets.
 
-**Feel free to propose your own entirely new idea.**
+Some data explorations ideas we had so far:
+* Genetic ancestry interpretation
+* Use time stamped GPS data & step counts to analyse how weather influences activity
+* your personal idea!
+
+These projects require rudimentary skills in web application design to connect to *Open Humans*.
+Students will learn how to interface with the APIs of Open Humans. Additionally
+students will become more familiar with building decentralized applications. This project can be mentored by
+[Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
+
+**Feel free to propose your own entirely new idea by being in touch with us.**
