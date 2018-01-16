@@ -20,4 +20,17 @@ program and additional ways to get in touch with us.
 
 ## Project Ideas
 
+### Writing a stand-alone project admin backend
+Open Humans is a modular eco system in which users can start their own projects
+that can request data from users or put new data into the accounts of users.
+These interactions are done largely through APIs. But for many basic administrative
+works a graphical user interface would be good to have. Such a GUI
+should be a stand-alone Django application that interfaces with the existing
+Open Humans API methods. You can find
+[more details in the corresponding GitHub issue](https://github.com/OpenHumans/open-humans/issues/690).
+
+This project requires rudimentary skills in web application design and ideally some familiarity with Django/Python.
+Students will learn how to interface with APIs and how build modular web applications.  
+
+
 **Feel free to propose your own entirely new idea.**
