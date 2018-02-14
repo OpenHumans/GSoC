@@ -1,11 +1,10 @@
-Open Humans Google Summer of Code (GSoC)
+Open Humans Outreachy
 ================================
 
 This GitHub repository is being used for Open Humans'
-participation in the Google Summer of Code (GSoC) event from 2013 onwards. We'll
-be using the GitHub wiki pages mostly:
+participation in the summer 2018 Outreachy program.
 
- * GSoC 2018 - http://openhumans.github.io/GSoC/
+ * Outreachy 2018 - http://openhumans.github.io/outreachy/
 
  # Acknowledgement
  The underlying codebase for this repo was copied from the
