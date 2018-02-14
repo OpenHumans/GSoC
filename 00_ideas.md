@@ -4,12 +4,12 @@ title: Project Ideas
 permalink: /ideas/
 ---
 
-# Google Summer of Code 2018 Project ideas
+# Open Humans Outreachy 2018 Project ideas
 
 The details of each of our project ideas are listed below, including potential
-mentors. Interested students should join [#gsoc channel on our Slack](http://slackin.openhumans.org) and announce their interest.
+mentors. Interested students should join [#outreachy channel on our Slack](http://slackin.openhumans.org) and announce their interest.
 
-See the [main Open Humans Google Summer of Code page](../) for more information about the GSoC
+See the [main Open Humans Outreachy page](../) for more information about the Outreachy
 program and additional ways to get in touch with us.
 
 
@@ -27,11 +27,19 @@ These interactions are done largely through APIs. But for many basic administrat
 works a graphical user interface would be good to have. Such a GUI
 should be a stand-alone Django application that interfaces with the existing
 Open Humans API methods. You can find
-[more details in the corresponding GitHub issue](https://github.com/OpenHumans/open-humans/issues/690).
+[more details in a corresponding GitHub issue](https://github.com/OpenHumans/open-humans/issues/690).
 
 This project requires rudimentary skills in web application design and ideally some familiarity with Django/Python.
 Students will learn how to interface with APIs and how build modular web applications. This project can be mentored by
 [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
+
+#### Contributing
+
+Outreachy requires applicants to demonstrate skill and interest by making
+one or more contributions to the project they're interested in.
+
+To do so for this project, we ask you to try setting up and contributing to this
+bare-bones starting point for a project admin backend: [https://github.com/OpenHumans/oh-proj-management](https://github.com/OpenHumans/oh-proj-management)
 
 ### Add new data sources
 Members of *Open Humans* can [connect data and upload data from external resources](https://www.openhumans.org/add-data/)
