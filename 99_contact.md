@@ -17,4 +17,4 @@ Bastian Greshake Tzovaras [bastian@openhumans.org](mailto:bastian@openhumans.org
 Mad Price Ball [mad@openhumans.org](mailto:mad@openhumans.org) (GitHub/Twitter/Slack: madprime)
 
 ### Email
-For prospective students, the first point of contact should be the [#gsoc channel on our Slack](slackin.openhumans.org).
+For prospective students, the first point of contact should be the [#outreachy channel on our Slack](slackin.openhumans.org).

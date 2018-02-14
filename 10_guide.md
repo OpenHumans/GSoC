@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guide for Prospective GSoC Students
+title: Guide for Prospective Students
 permalink: /guide/
 ---
 
@@ -17,7 +17,7 @@ Frequent and early communication is extremely valuable for putting together
 successful projects.
 
 ### When you apply
-When applying, (aside from the information requested by Google) please provide the following in your application material.
+When applying, (aside from the information requested by Outreachy) please provide the following in your application material.
 
 1. Your complete contact information, including full name, physical address,
    preferred email address, and telephone number, plus other pertinent contact
@@ -48,14 +48,14 @@ When applying, (aside from the information requested by Google) please provide t
      off of us.
      Through the project plan exercise you will inevitably discover that you are missing a
      lot of the pieces - we are there to help you fill those in as best as we can.
-6. Any obligations, vacations, or plans for the summer that may require scheduling during the GSoC work period.
-   * We expect your GSoC project to be your primary focus over the summer.
+6. Any obligations, vacations, or plans for the summer that may require scheduling during the Outreachy work period.
+   * We expect your Outreachy project to be your primary focus over the summer.
      It should not be regarded as a part-time occupation.
    * If you feel that you can manage other work obligations concurrently with your
-     Summer of Code project, make your case and support it with evidence.
+     Outreachy project, make your case and support it with evidence.
    * Be honest and open. If it turns out later that you weren't clear about other obligations,
      at best (i.e., if your accomplishment record at that point is spotless) our trust in you
-     will be severely degraded. Also, if you are accepted, discuss with your GSoC mentor before
+     will be severely degraded. Also, if you are accepted, discuss with your Outreachy mentor before
      taking on additional obligations.
    * One of the most common reasons for students to struggle or fail is being overcommitted
-     Do not set yourself up for failure! GSoC summers should be fun and rewarding!
+     Do not set yourself up for failure! Outreachy summers should be fun and rewarding!
