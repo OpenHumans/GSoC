@@ -36,6 +36,10 @@ package dependencies of a project. When developing on your own machine, you
 should be installing dependencies for a particular project within a virtual
 environment – not globally.
 
+If you develop against a project that has a `requirements.txt` but no `Pipfile` yet 
+you can use `pipenv install -r requirements.txt` to generate the `Pipfile` and install
+the dependencies.
+
 ## Project Ideas
 
 **Note:** We have proposed both "data source" and "data exploration" projects. These
