@@ -26,15 +26,15 @@ in!) We have templates and example Django projects to help you get started.
 **Django tutorial:** If you're new to Django, we recommend you do the [Django tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01/) first, to
 get a feel for Django project development.
 
-**Virtual environments:** If you're new to developing Python projects, we
-strongly recommend you learn about using virtual environments for your work.
-Either virtualenv (with virtualenvwrapper recommended) or conda are reasonable
-options.
+**Python development with pipenv:** [Pipenv](http://pipenv.readthedocs.io/en/latest/)
+is now the officially recommended packaging tool for Python development. We
+recommend you install and use this, and we're working on transitioning our own
+projects to this.
 
-* About virtualenv and virtualenvwrapper: http://docs.python-guide.org/en/latest/dev/virtualenvs/
-* About Conda's virtual environments: https://conda.io/docs/user-guide/tasks/manage-environments.html
-
-When developing on your own machine, you should be installing requirements from requirements.txt within a virtual environment – not globally.
+Pipenv will help you create and manage virtual environments that provide the
+package dependencies of a project. When developing on your own machine, you
+should be installing dependencies for a particular project within a virtual
+environment – not globally.
 
 ## Project Ideas
 
