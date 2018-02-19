@@ -40,6 +40,12 @@ If you develop against a project that has a `requirements.txt` but no `Pipfile` 
 you can use `pipenv install -r requirements.txt` to generate the `Pipfile` and install
 the dependencies.
 
+**Making Pull Requests**
+Some general tips for making Pull Requests to our repositories:
+- Pull requests should target only a single issue/feature. Don't put too many changes into a single pull request
+- Reference open issues that your pull request targets and tries to solve
+- Make sure to not accidentally change lots of unrelated files, e.g. don't commit temporary files from your editor, style changes introduced by your editor or unneeded file permission changes.
+
 ## Project Ideas
 
 **Note:** We have proposed both "data source" and "data exploration" projects. These
