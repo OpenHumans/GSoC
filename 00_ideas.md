@@ -36,7 +36,7 @@ package dependencies of a project. When developing on your own machine, you
 should be installing dependencies for a particular project within a virtual
 environment – not globally.
 
-If you develop against a project that has a `requirements.txt` but no `Pipfile` yet 
+If you develop against a project that has a `requirements.txt` but no `Pipfile` yet
 you can use `pipenv install -r requirements.txt` to generate the `Pipfile` and install
 the dependencies.
 
@@ -45,6 +45,8 @@ Some general tips for making Pull Requests to our repositories:
 - Pull requests should target only a single issue/feature. Don't put too many changes into a single pull request
 - Reference open issues that your pull request targets and tries to solve
 - Make sure to not accidentally change lots of unrelated files, e.g. don't commit temporary files from your editor, style changes introduced by your editor or unneeded file permission changes.
+- Pull requests that you think are ready to be merged should be prefixed with `MRG: `, e.g. the title should be `MRG: new feature X, closes #2`
+- Furthermore, you can already open pull requests and work on them if you want to get feedback during the development phase. The name of those *work in progress* pull requests should be prefixed with `WIP: `, e.g. `WIP: new feature X`
 
 ## Project Ideas
 
@@ -71,7 +73,7 @@ Some data import ideas we had so far:
 
 These projects require rudimentary skills in web application design to connect to *Open Humans*.
 Students will learn how to interface with the APIs of their data source as well as the Open Humans API. Additionally
-students will become more familiar with building decentralized applications. This project can be mentored by
+students will become more familiar with building decentralized applications. This project can be mentored by [Mike](https://github.com/mcescalante)
 [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
 #### Contributing
@@ -107,7 +109,7 @@ Some data explorations ideas we had so far:
 
 These projects require rudimentary skills in web application design to connect to *Open Humans*.
 Students will learn how to interface with the APIs of Open Humans. Additionally
-students will become more familiar with building decentralized applications. This project can be mentored by
+students will become more familiar with building decentralized applications. This project can be mentored by [Mike](https://github.com/mcescalante)
 [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
 #### Contributing
@@ -136,7 +138,7 @@ Open Humans API methods. You can find
 [more details in a corresponding GitHub issue](https://github.com/OpenHumans/open-humans/issues/690).
 
 This project requires rudimentary skills in web application design and ideally some familiarity with Django/Python.
-Students will learn how to interface with APIs and how build modular web applications. This project can be mentored by
+Students will learn how to interface with APIs and how build modular web applications. This project can be mentored by [Mike](https://github.com/mcescalante)
 [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
 #### Contributing
