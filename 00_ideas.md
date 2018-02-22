@@ -157,14 +157,14 @@ Many projects interact with Open Humans through our APIs (e.g. uploading/downloa
 
 In addition the extended library should then also be used to create a re-usable `Django` web application that can easily be plugged in into larger Django web apps to make interfacing with Open Humans easier.
 
-Ultimately both the Python API client and the reusable web app should be published as `pip`-installable modules (with the `Django` app building on top of the general API library).
+Ultimately both the Python API client and the reusable web app should be published in [PyPI](https://pypi.python.org/pypi) as `pip`-installable modules (with the `Django` app building on top of the general API library).
 
 
 In short, the goals of these project are:
 
 - Extending the Python library to include all the Open Humans API methods
 - Using the extended Python API library to write a re-usable `Django` application
-- Releasing both as `pip`-installable modules
+- Releasing both as `pip`-installable modules on [PyPI](https://pypi.python.org/pypi)
 
 You can find
 [the already existing API client on GitHub along with issues ](https://github.com/OpenHumans/open-humans-api/issues).
