@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guide for Prospective Students
+title: Guide for Prospective Interns
 permalink: /guide/
 ---
 
@@ -12,7 +12,7 @@ permalink: /guide/
 *  Write a project proposal draft, include a project plan (see below), and [send it
    to us](../contact/) for comments before submitting it.
 
-Again, students are strongly encouraged to [contact us](../contact/) as early as possible.
+Again, prospective interns are strongly encouraged to [contact us](../contact/) as early as possible.
 Frequent and early communication is extremely valuable for putting together
 successful projects.
 
@@ -25,8 +25,8 @@ When applying, (aside from the information requested by Outreachy) please provid
 2. Why you are interested in the project you are proposing and are well-suited to undertake it.
 3. A summary of your programming experience and skills.
 4. Programs or projects you have previously authored or contributed to, in particular
-   those available as open-source, including, if applicable, any past Summer of Code
-   involvement.
+   those available as open-source, including, if applicable, any past involvements in
+   mentored programs, like Outreachy or Google Summer of Code.
 5. A project plan for the project you are proposing, even if your proposed project is
    directly based on one of the proposed project ideas for member projects.
    * A project plan in principle divides up the whole project into a series of
@@ -57,5 +57,5 @@ When applying, (aside from the information requested by Outreachy) please provid
      at best (i.e., if your accomplishment record at that point is spotless) our trust in you
      will be severely degraded. Also, if you are accepted, discuss with your Outreachy mentor before
      taking on additional obligations.
-   * One of the most common reasons for students to struggle or fail is being overcommitted
-     Do not set yourself up for failure! Outreachy summers should be fun and rewarding!
+   * One of the most common reasons for interns to struggle or fail is being overcommitted
+     Do not set yourself up for failure! Outreachy internships should be fun and rewarding!
