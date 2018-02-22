@@ -150,4 +150,36 @@ To do so for this project, we ask you to try setting up and contributing to this
 bare-bones starting point for a project admin backend: [https://github.com/OpenHumans/oh-proj-management](https://github.com/OpenHumans/oh-proj-management)
 
 
+-----
+
+### Extending the Python module for the Open Humans API
+Many projects interact with Open Humans through our APIs (e.g. uploading/downloading/deleting data and sending messages). Many of these projects (including our own) are written in Python. We already have a basic Python library that enables the partial use of the full Open Humans API but it still lacks some of the API features that we want to see added.
+
+In addition the extended library should then also be used to create a re-usable `Django` web application that can easily be plugged in into larger Django web apps to make interfacing with Open Humans easier.
+
+Ultimately both the Python API client and the reusable web app should be published as `pip`-installable modules (with the `Django` app building on top of the general API library).
+
+
+In short, the goals of these project are:
+
+- Extending the Python library to include all the Open Humans API methods
+- Using the extended Python API library to write a re-usable `Django` application
+- Releasing both as `pip`-installable modules
+
+You can find
+[the already existing API client on GitHub along with issues ](https://github.com/OpenHumans/open-humans-api/issues).
+
+This project requires basic skills in Python to extend the API client library. In addition some web application experience with Django/Python is required.
+Students will learn how to build a Python library that can be used to connect with APIs and how build a reusable web application. This project can be mentored by [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
+
+[Documentation about the Open Humans OAuth2 API can be found on our website](https://www.openhumans.org/direct-sharing/oauth2-features/). Additionally, we have [Wiki page that lists our API endpoints](https://github.com/OpenHumans/open-humans/wiki/API-endpoints).
+
+#### Contributing
+
+Outreachy requires applicants to demonstrate skill and interest by making
+one or more contributions to the project they're interested in.
+
+To do so for this project, we ask you to try contributing to [some of the issues which are already on GitHub](https://github.com/OpenHumans/open-humans-api/issues).
+
+
 **Feel free to propose your own entirely new idea by being in touch with us.**
