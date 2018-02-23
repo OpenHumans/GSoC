@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Before applying, please read our [documentation on information that students
+Before applying, please read our [documentation on information that interns
 should know and guidelines we expect you to follow](../guide/). We also require that you
 include certain information, listed below, under "[When you apply.](../guide/#when-you-apply)"
 
@@ -17,4 +17,4 @@ Bastian Greshake Tzovaras [bastian@openhumans.org](mailto:bastian@openhumans.org
 Mad Price Ball [mad@openhumans.org](mailto:mad@openhumans.org) (GitHub/Twitter/Slack: madprime)
 
 ### Email
-For prospective students, the first point of contact should be the [#outreachy channel on our Slack](slackin.openhumans.org).
+For prospective interns, the first point of contact should be the [#outreachy channel on our Slack](slackin.openhumans.org).

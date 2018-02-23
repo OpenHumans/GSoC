@@ -7,7 +7,7 @@ permalink: /ideas/
 # Open Humans Outreachy 2018 Project ideas
 
 The details of each of our project ideas are listed below, including potential
-mentors. Interested students should join [#outreachy channel on our Slack](http://slackin.openhumans.org) and announce their interest.
+mentors. Interested interns should join [#outreachy channel on our Slack](http://slackin.openhumans.org) and announce their interest.
 
 See the [main Open Humans Outreachy page](../) for more information about the Outreachy
 program and additional ways to get in touch with us.
@@ -61,7 +61,7 @@ data to Open Humans *and* analyzes it.)
 ### Add new data sources
 Members of *Open Humans* can [connect data and upload data from external resources](https://www.openhumans.org/add-data/)
 into their accounts to share this data with other projects, research studies and individuals. Many of these
-data imports are community curated. We are looking for students who are interested in contributing
+data imports are community curated. We are looking for interns who are interested in contributing
 new data sources. Write a data importer for your favorite sleep tracking, diet logging or
 social media application.
 
@@ -72,8 +72,8 @@ Some data import ideas we had so far:
 * your personal idea!
 
 These projects require rudimentary skills in web application design to connect to *Open Humans*.
-Students will learn how to interface with the APIs of their data source as well as the Open Humans API. Additionally
-students will become more familiar with building decentralized applications. This project can be mentored by [Mike](https://github.com/mcescalante)
+Interns will learn how to interface with the APIs of their data source as well as the Open Humans API. Additionally
+interns will become more familiar with building decentralized applications. This project can be mentored by [Mike](https://github.com/mcescalante),
 [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
 #### Contributing
@@ -98,7 +98,7 @@ To do so for this project, we ask you to try doing one or more of the following:
 
 ### Add Data Exploration projects
 Members of *Open Humans* can use the different data sets they have connected to their account in various
-data exploration tools. We are looking for students who are interested in contributing
+data exploration tools. We are looking for interns who are interested in contributing
 new data exploration tools that access a member's data sets to generate interesting insights.
 These can be in form of data visualization/analysis or generating derived new data sets.
 
@@ -108,8 +108,8 @@ Some data explorations ideas we had so far:
 * your personal idea!
 
 These projects require rudimentary skills in web application design to connect to *Open Humans*.
-Students will learn how to interface with the APIs of Open Humans. Additionally
-students will become more familiar with building decentralized applications. This project can be mentored by [Mike](https://github.com/mcescalante)
+Interns will learn how to interface with the APIs of Open Humans. Additionally
+interns will become more familiar with building decentralized applications. This project can be mentored by [Mike](https://github.com/mcescalante),
 [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
 #### Contributing
@@ -138,7 +138,7 @@ Open Humans API methods. You can find
 [more details in a corresponding GitHub issue](https://github.com/OpenHumans/open-humans/issues/690).
 
 This project requires rudimentary skills in web application design and ideally some familiarity with Django/Python.
-Students will learn how to interface with APIs and how build modular web applications. This project can be mentored by [Mike](https://github.com/mcescalante)
+Interns will learn how to interface with APIs and how build modular web applications. This project can be mentored by [Mike](https://github.com/mcescalante)
 [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
 #### Contributing
@@ -170,7 +170,7 @@ You can find
 [the already existing API client on GitHub along with issues ](https://github.com/OpenHumans/open-humans-api/issues).
 
 This project requires basic skills in Python to extend the API client library. In addition some web application experience with Django/Python is required.
-Students will learn how to build a Python library that can be used to connect with APIs and how build a reusable web application. This project can be mentored by [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
+Interns will learn how to build a Python library that can be used to connect with APIs and how build a reusable web application. This project can be mentored by [Mad](https://github.com/madprime) and/or [Bastian](https://github.com/gedankenstuecke).
 
 [Documentation about the Open Humans OAuth2 API can be found on our website](https://www.openhumans.org/direct-sharing/oauth2-features/). Additionally, we have [Wiki page that lists our API endpoints](https://github.com/OpenHumans/open-humans/wiki/API-endpoints).
 
